@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to sky creatures world"
-author: "Volodymyr Pavliukevych"
+author: "Nobody"
 categories: introduction
 tags: [skycreature, world]
 image: img_3.jpeg
