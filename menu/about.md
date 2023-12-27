@@ -8,7 +8,9 @@ permalink: /about
 ## About
 
 Welcome to Aetheria, a realm unlike any other, where the skies hold secrets, and fantastical creatures roam amidst floating islands. Aetheria is a Japanese-inspired fantasy world, brimming with wonder, adventure, and the beauty of a realm suspended in the heavens.
+
 ![Sky creatures world](https://skycreatures.com/assets/img/img_4.jpeg "Sky creatures worls")
+
 Within this ethereal expanse, the sky islands are home to a myriad of creatures, from majestic dragons that command the winds to elegant seahorse-like beings that gracefully navigate the clouds. Each of these creatures possesses unique abilities and cultural richness, contributing to the tapestry of this awe-inspiring realm.
 
 The world of Aetheria is a breathtaking mosaic of vibrant landscapes, from verdant floating gardens to towering mountain peaks crowned with ancient ruins. These islands hold the remnants of a bygone era, steeped in enigmatic lore and tantalizing mysteries waiting to be unraveled.
