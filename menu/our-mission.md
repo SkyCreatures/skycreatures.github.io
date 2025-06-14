@@ -9,7 +9,7 @@ permalink: /our-mission
 **Defending Ukraine through Intelligent Autonomy**
 
 
-![Sky creatures world](https://skycreatures.com/assets/img/img_4.jpeg "Sky creatures worls")
+![Sky creatures world](https://skycreatures.com/assets/img/drone.jpg "Sky creatures worls")
 To empower unmanned systems with the intelligence to perceive, decide, and act — autonomously and reliably — across air, land, and sea.
 
 

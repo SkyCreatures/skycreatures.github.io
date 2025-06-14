@@ -19,6 +19,7 @@ We are proud to contribute to Ukraine’s technological edge, equipping defense,
 
 
 ## What we do
+![Sky creatures world](https://skycreatures.com/assets/img/drone-2.jpg "Sky creatures worls")
 
 We design, develop, and deploy full-stack AI solutions for:
 
@@ -30,7 +31,6 @@ We design, develop, and deploy full-stack AI solutions for:
 * **Autonomous navigation in GPS-denied environments**
 * **Embedded and edge AI optimization**
 * **System integration with flight controllers and telemetry modules**
-
 
 ## Core technologies we use
 
