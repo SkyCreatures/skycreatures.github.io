@@ -4,10 +4,8 @@ title: "Welcome to sky creatures world"
 author: "Nobody"
 categories: introduction
 tags: [skycreature, world]
-image: img_3.jpeg
+image: drone-2.png
 ---
-
-# Welcome to SkyCreatures
 
 ## Who we are
 
@@ -19,7 +17,7 @@ We are proud to contribute to Ukraine’s technological edge, equipping defense,
 
 
 ## What we do
-![Sky creatures world](https://skycreatures.com/assets/img/drone-2.jpg "Sky creatures worls")
+![Sky creatures world](https://skycreatures.com/assets/img/drone-2.png "Sky creatures worls")
 
 We design, develop, and deploy full-stack AI solutions for:
 

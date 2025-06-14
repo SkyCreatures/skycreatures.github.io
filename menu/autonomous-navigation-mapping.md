@@ -6,7 +6,7 @@ permalink: /autonomous-navigation-mapping
 
 ## Autonomous Navigation, Mapping & Earth Analytics
 
-![Sky creatures world](https://skycreatures.com/assets/img/cartographi.jpg "Sky creatures worls")
+![Sky creatures world](https://skycreatures.com/assets/img/cartographi.png "Sky creatures worls")
 
 ## Autonomous navigation, mapping & earth analytics
 

@@ -8,6 +8,7 @@ disqus:
 
 menu:
 - {name: 'Our Mission',   url: 'our-mission.html'}
+- {name: 'Autonomous navigation and mapping',   url: 'autonomous-navigation-mapping.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
