@@ -17,8 +17,6 @@ We are proud to contribute to Ukraine’s technological edge, equipping defense,
 
 
 ## What we do
-![Sky creatures world](https://skycreatures.com/assets/img/drone-2.png "Sky creatures worls")
-
 We design, develop, and deploy full-stack AI solutions for:
 
 * **Autonomous drones and UAVs**
