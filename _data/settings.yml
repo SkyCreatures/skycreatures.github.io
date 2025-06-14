@@ -7,8 +7,9 @@ disqus:
 # google-ID: 'UA-000000000-0'
 
 menu:
-- {name: 'Our Mission',   url: 'our-mission.html'}
 - {name: 'Autonomous navigation and mapping',   url: 'autonomous-navigation-mapping.html'}
+- {name: 'Our Mission',   url: 'our-mission.html'}
+- {name: 'Contacts',   url: 'contacts.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -26,6 +27,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'Other pages:'
 
 post_date_prefix: 'Written on'
