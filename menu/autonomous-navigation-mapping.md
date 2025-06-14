@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Autonomous Navigation, Mapping & Earth Analytics
+title: Autonomous Navigation & Mapping
 permalink: /autonomous-navigation-mapping
 ---
-
-## Autonomous Navigation, Mapping & Earth Analytics
 
 ![Sky creatures world](https://skycreatures.com/assets/img/cartographi.png "Sky creatures worls")
 
@@ -26,7 +24,7 @@ We develop AI-driven navigation algorithms for unmanned aerial and ground vehicl
 Our navigation stack is built for **military-grade environments**, where reliability, speed, and autonomy are essential — whether it's urban warfare, forested zones, or unstructured landscapes.
 
 
-### 🗺️ Topological mapping & 3D reconstruction
+### Topological mapping & 3D reconstruction
 
 We create solutions for generating **real-time 2D/3D maps** of operational environments from drone-mounted sensors:
 

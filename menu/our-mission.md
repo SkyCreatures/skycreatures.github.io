@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Sky Creatures team mission
+title: The team mission
 permalink: /our-mission
 ---
-
-## Our mission
 
 **Defending Ukraine through Intelligent Autonomy**
 
