@@ -5,8 +5,10 @@
 body {
   font-family: $serif-font-family;
   font-size: 18px;
+  font-weight: 300;
   color: $body-color;
   line-height: 1.75rem;
+  
 }
 
 @media (max-width: $elements-responsive-width) {
